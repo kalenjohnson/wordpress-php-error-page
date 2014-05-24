@@ -1,0 +1,15 @@
+{
+    "name": "kalenjohnson/php-error-page",
+    "description": "Wordpress plugin that utilizes Whoops! Error Page",
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "Kalen Johnson",
+            "email": "info@kalenjohnson.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+			"filp/whoops": "1.1.1"
+		}
+}
