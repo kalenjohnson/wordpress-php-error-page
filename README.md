@@ -1,7 +1,7 @@
 PHP Error Pages for Wordpress
 ========================
 
-Wordpress plugin that utliizes [Whoops!] <http://filp.github.io/whoops/> Error Page to show better PHP errors.
+Wordpress plugin that utliizes Whoops! Error Page (http://filp.github.io/whoops/) to show better PHP errors.
 
 I'm surprised that with all of the development that has gone into Wordpress, we don't have more helpful error pages other than the default PHP error line.
 
